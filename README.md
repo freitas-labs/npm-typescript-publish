@@ -23,8 +23,10 @@ Note: The release PR is only created in the presence of the temporary file creat
 
 ## Acknowledgements
 
-I would like to thank @mattpocock for introducing me to `changeset` tool! Here's Matt video on it:
+I would like to thank @mattpocock for introducing me to `changesets` tool! Here's Matt video on it:
 
 [![Watch the video](https://img.youtube.com/vi/eh89VE3Mk5g/hqdefault.jpg)](https://youtu.be/eh89VE3Mk5g)
+
+---
 
 If you found this spike useful, you can generate a custom project that uses the same tools for building programs and libraries. Find out more at https://github.com/dart-pacotes/.bricks/tree/master/pacote_web
