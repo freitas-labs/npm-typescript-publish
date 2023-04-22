@@ -13,6 +13,7 @@
 		"test": "jest",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
+		"release": "changeset",
 		"publish": "npm run build && changeset publish"
 	},
 	"repository": {
