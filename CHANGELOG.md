@@ -1,5 +1,11 @@
 # npm-typescript-publish
 
+## 0.1.1
+
+### Patch Changes
+
+- 0e6eb77: finish spike
+
 ## 0.1.0
 
 ### Minor Changes
