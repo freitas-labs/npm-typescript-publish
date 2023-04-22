@@ -1,6 +1,6 @@
-# node-npm-typescript-prettier-eslint-jest-hotreload-hooks
+# node-npm-typescript-publish
 
-Spike to create a Node project built with TypeScript + Prettier + ESLint + Jest + Hotreload + Git Hooks
+Spike to publish a typescript Node package to NPM
 
 ---
 

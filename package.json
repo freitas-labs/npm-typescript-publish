@@ -1,7 +1,7 @@
 {
-	"name": "npm-typescript-prettier-eslint-jest-hotreload-hooks",
+	"name": "npm-typescript-publish",
 	"version": "0.0.1",
-	"description": "Spike to create a Node project built with TypeScript + Prettier + ESLint + Jest + Hotreload + Git Hooks",
+	"description": "Spike to publish a typescript Node package to NPM",
 	"main": "dist/index.js",
 	"module": "dist/index.cjs",
 	"types": "dist/index.d.ts",
@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/freitas-labs/node-npm-typescript-prettier-eslint-jest-hotreload-hooks.git"
+		"url": "git+https://github.com/freitas-labs/node-npm-typescript-publish.git"
 	},
 	"keywords": [
 		"typescript",
@@ -32,9 +32,9 @@
 	"author": "freitas-labs",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/freitas-labs/node-npm-typescript-prettier-eslint-jest-hotreload-hooks/issues"
+		"url": "https://github.com/freitas-labs/node-npm-typescript-publish/issues"
 	},
-	"homepage": "https://github.com/freitas-labs/node-npm-typescript-prettier-eslint-jest-hotreload-hooks#readme",
+	"homepage": "https://github.com/freitas-labs/node-npm-typescript-publish#readme",
 	"type": "module",
 	"devDependencies": {
 		"@jest/globals": "^29.5.0",
