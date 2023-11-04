@@ -1,6 +1,6 @@
 {
 	"name": "npm-typescript-publish",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "Spike to publish a typescript Node package to NPM",
 	"main": "dist/index.js",
 	"module": "dist/index.cjs",

@@ -1,5 +1,11 @@
 # npm-typescript-publish
 
+## 0.1.3
+
+### Patch Changes
+
+- e071567: d
+
 ## 0.1.2
 
 ### Patch Changes
