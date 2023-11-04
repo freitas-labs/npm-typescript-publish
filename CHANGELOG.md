@@ -1,5 +1,11 @@
 # npm-typescript-publish
 
+## 0.1.2
+
+### Patch Changes
+
+- dbcabee: something cool
+
 ## 0.1.1
 
 ### Patch Changes
